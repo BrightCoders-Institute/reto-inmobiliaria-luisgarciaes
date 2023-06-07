@@ -13,7 +13,7 @@
 - [Indicadores de cumplimiento](#-indicadores-de-cumplimiento)
 - [Recursos](#-recursos)
   
-# 🚀 App Inmobiliaria
+# 🚀 App Inmobiliaria 
 
 - **Organización.** [Individual](https://github.com/BrightCoders-Institute/handbook/wiki/Actividades#actividades-individuales-as%C3%ADncronas)
 - **Modo.** [Asíncrono](https://github.com/BrightCoders-Institute/handbook/wiki/Actividades#actividades-individuales-as%C3%ADncronas)
