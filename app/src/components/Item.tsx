@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Property } from '../types/PropertyType';
+import { Property } from '../property/property';
 import { Text, TouchableOpacity, View } from 'react-native';
 import ImageCard from './Card';
 

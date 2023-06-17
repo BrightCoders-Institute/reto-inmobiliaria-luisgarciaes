@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Property 1",
+        "address": "123 Main Street",
+        "rooms": "3",
+        "bathrooms": "2",
+        "size": "1500 sqft",
+        "price": "$200,000",
+        "stars": "4.5",
+        "like": false,
+        "img": "https://definicion.de/wp-content/uploads/2011/01/casa-2.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Property 2",
+        "address": "456 Elm Street",
+        "rooms": "4",
+        "bathrooms": "3",
+        "size": "2000 sqft",
+        "price": "$300,000",
+        "stars": "4.8",
+        "like": false,
+        "img": "https://www.bbva.com/wp-content/uploads/2021/04/casas-ecolo%CC%81gicas_apertura-hogar-sostenibilidad-certificado-.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Property 3",
+        "address": "789 Oak Street",
+        "rooms": "2",
+        "bathrooms": "1",
+        "size": "1000 sqft",
+        "price": "$150,000",
+        "stars": "4.2",
+        "like": true,
+        "img": "https://images.adsttc.com/media/images/5d34/e507/284d/d109/5600/0240/large_jpg/_FI.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Property 1",
+        "address": "123 Main Street",
+        "rooms": "3",
+        "bathrooms": "2",
+        "size": "1500 sqft",
+        "price": "$200,000",
+        "stars": "4.5",
+        "like": false,
+        "img": "https://definicion.de/wp-content/uploads/2011/01/casa-2.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Property 2",
+        "address": "456 Elm Street",
+        "rooms": "4",
+        "bathrooms": "3",
+        "size": "2000 sqft",
+        "price": "$300,000",
+        "stars": "4.8",
+        "like": false,
+        "img": "https://www.bbva.com/wp-content/uploads/2021/04/casas-ecolo%CC%81gicas_apertura-hogar-sostenibilidad-certificado-.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Property 3",
+        "address": "789 Oak Street",
+        "rooms": "2",
+        "bathrooms": "1",
+        "size": "1000 sqft",
+        "price": "$150,000",
+        "stars": "4.2",
+        "like": true,
+        "img": "https://images.adsttc.com/media/images/5d34/e507/284d/d109/5600/0240/large_jpg/_FI.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Property 1",
+        "address": "123 Main Street",
+        "rooms": "3",
+        "bathrooms": "2",
+        "size": "1500 sqft",
+        "price": "$200,000",
+        "stars": "4.5",
+        "like": false,
+        "img": "https://definicion.de/wp-content/uploads/2011/01/casa-2.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Property 2",
+        "address": "456 Elm Street",
+        "rooms": "4",
+        "bathrooms": "3",
+        "size": "2000 sqft",
+        "price": "$300,000",
+        "stars": "4.8",
+        "like": false,
+        "img": "https://www.bbva.com/wp-content/uploads/2021/04/casas-ecolo%CC%81gicas_apertura-hogar-sostenibilidad-certificado-.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Property 3",
+        "address": "789 Oak Street",
+        "rooms": "2",
+        "bathrooms": "1",
+        "size": "1000 sqft",
+        "price": "$150,000",
+        "stars": "4.2",
+        "like": true,
+        "img": "https://images.adsttc.com/media/images/5d34/e507/284d/d109/5600/0240/large_jpg/_FI.jpg"
+    }
+]
